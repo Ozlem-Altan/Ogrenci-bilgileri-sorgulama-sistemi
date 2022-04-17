@@ -1,0 +1,11 @@
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\bin\Debug\listview_ornek.exe.config
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\bin\Debug\listview_ornek.exe
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\bin\Debug\listview_ornek.pdb
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.csproj.AssemblyReference.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.Form1.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.Form2.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.Properties.Resources.resources
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.csproj.GenerateResource.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.exe
+C:\Users\ozlem\Desktop\BEM_Haftalik_Dosyalama\hafta_14\form\listview_ornek\listview_ornek\obj\Debug\listview_ornek.pdb
